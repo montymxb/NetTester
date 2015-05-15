@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetTester</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="title_text">Check Wifi</string>
+    <string name="test">Go</string>
+    <string name="working">&#8230;</string>
+</resources>

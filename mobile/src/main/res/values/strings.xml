@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetTester</string>
+    <string name="default_message">Ready to Scan</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_text">Signal Strength</string>
+    <string name="show_data_message">Toggle Data Shown on Wearable</string>
+    <string name="wake_watch">Wake Watch</string>
+</resources>
